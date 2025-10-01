@@ -1,6 +1,17 @@
-✅ Setting up a monorepo architecture with Turborepo (used in enterprise-scale apps)
-✅ Building a high-performance backend API with NestJS & Prisma
-✅ Creating a dynamic frontend UI using Next.js & Tailwind CSS
-✅ Implementing secure authentication & authorization
-✅ Connecting to a scalable database & handling CRUD operations
-✅ Structuring your app for easy cloud deployment (Vercel, AWS, DigitalOcean)
+# 🚀 Monorepo App (Turborepo + Next.js + NestJS + Prisma + Tailwind)
+
+![stack](https://img.shields.io/badge/stack-Turborepo%20%7C%20Next.js%20%7C%20NestJS%20%7C%20Prisma%20%7C%20Tailwind-blue)
+
+---
+
+## 📌 Overview
+This monorepo template is designed for production-grade apps and includes:
+
+- ✅ Monorepo architecture using **Turborepo**  
+- ✅ Backend API with **NestJS** & **Prisma** (Postgres recommended)  
+- ✅ Frontend app using **Next.js** & **Tailwind CSS**  
+- ✅ Secure authentication & authorization (JWT / cookies)  
+- ✅ Database migrations, seeding & CRUD operations  
+- ✅ Cloud-ready deployment setup (Vercel, AWS, Render, DigitalOcean)  
+
+---
