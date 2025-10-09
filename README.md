@@ -11,7 +11,7 @@ This monorepo template is designed for production-grade apps and includes:
 - ✅ Backend API with **NestJS** & **Prisma** (Postgres recommended)  
 - ✅ Frontend app using **Next.js** & **Tailwind CSS**  
 - ✅ Secure authentication & authorization (JWT / cookies)  
-- ✅ Database migrations, seeding & CRUD operations  
+- ✅ Database migrations, seeding & CRUD operations using **REST API** and **GraphQL**.  
 - ✅ Cloud-ready deployment setup (Vercel, AWS, Render, DigitalOcean)  
 
 ---
