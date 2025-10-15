@@ -38,7 +38,6 @@ async function main() {
   await Promise.all(
     posts.map(
       async (post) =>
-        // eslint-disable-next-line @typescript-eslint/no-unsafe-return
         await prisma.post.create({
           data: {
             ...post,
